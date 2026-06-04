@@ -1,4 +1,4 @@
-# 🏋️ FitMap - AI-Powered Personalized Fitness Plan Generator
+# 🏋️ FitMap - Personalized Fitness Plan Generator
 
 ## Overview
 
